@@ -31,14 +31,6 @@
       "date": "31/03/2024",
       "finished": "Pendiente",
       "description": "Dar de comer a todos los pollos del granero 4"
-    },
-    {
-      "id": "#5",
-      "employee": "Maria Lopez",
-      "time": "6 horas",
-      "date": "02/04/2024",
-      "finished": "Finalizado",
-      "description": "Dar de comer a todos los pollos del granero 5"
     }
   ]
 }
