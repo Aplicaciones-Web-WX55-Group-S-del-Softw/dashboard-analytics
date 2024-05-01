@@ -41,7 +41,7 @@
       "description": "Dar de comer a todos los pollos del granero 5"
     }
   ],
-  {
+  
   "weathers": [
     {
       "degree": "33",
@@ -74,5 +74,5 @@
       "image": "mcloudy.png"
     }
   ]
-}
+
 }
