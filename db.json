@@ -40,5 +40,39 @@
       "finished": "Finalizado",
       "description": "Dar de comer a todos los pollos del granero 5"
     }
+  ],
+  {
+  "weathers": [
+    {
+      "degree": "33",
+      "day": "Monday",
+      "date": "2024-05-01",
+      "image": "rainy.png"
+    },
+    {
+      "degree": "28",
+      "day": "Tuesday",
+      "date": "2024-05-02",
+      "image": "cloudy.png"
+    },
+    {
+      "degree": "31",
+      "day": "Wednesday",
+      "date": "2024-05-03",
+      "image": "mcloudy.png"
+    },
+    {
+      "degree": "14",
+      "day": "Thursday",
+      "date": "2024-05-04",
+      "image": "clear.png"
+    },
+    {
+      "degree": "20",
+      "day": "Friday",
+      "date": "2024-05-05",
+      "image": "mcloudy.png"
+    }
   ]
+}
 }
